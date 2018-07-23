@@ -2,6 +2,4 @@
 
 This is a generic text for testing purposes with GitHub.
 
-Edit on update-readme branch
-
-Local edit here
+Updates made on master on GitHub before rebase
